@@ -1,6 +1,9 @@
 # Writing Style Guidelines
 
-This document outlines the professional writing style, tone, structure, and formatting guidelines for the AI Forward Deployed Engineering (FDE) memo, synthesized directly from our reference documents: *Tiger's Early 2026 AI Observations* and *Adobe - Field PM memo*.
+This document outlines the professional writing style, tone, structure, and formatting guidelines for the AI Forward Deployed Engineering (FDE) memo, synthesized directly from the structural and stylistic patterns of our reference documents (*Tiger's Early 2026 AI Observations* and *Adobe - Field PM memo*).
+
+> [!IMPORTANT]
+> **This guide is strictly a stylistic and structural reference.** It does NOT contribute factual data, research claims, or operational arguments. All memo content, metrics, and domain-specific frameworks must be derived exclusively from the approved outline (`output/outline.md`) and the synthesized research files (`research/`).
 
 ---
 
@@ -8,7 +11,7 @@ This document outlines the professional writing style, tone, structure, and form
 * **Pragmatic and Operator-Led**: Write from the perspective of an experienced operator focused on execution, value, and durable capability. Avoid speculative vendor marketing or hype.
 * **Objective and Fact-Driven**: Ground claims in observable metrics, industry trends, and clear economic signals (e.g., capital expenditure figures, developer daily spend, labor substitution ratios).
 * **Decisive and Authoritative**: Use active, clear sentences that demonstrate structural understanding. Address the reader directly when proposing a framework.
-* **Humble but Expert**: Provide deep insights without overclaiming success or using excessive superlatives. Focus on the structural challenges and practical tradeoffs (e.g., inside-the-model vs. outside-the-model limitations).
+* **Humble but Expert**: Provide deep insights without overclaiming success or using excessive superlatives.
 
 ---
 
@@ -23,22 +26,18 @@ A premium memo must have a highly structured, scannable architecture:
 
 ## 3. Formatting & Typography
 * **Bulleted and Numbered Lists**: Use clean, nested lists to organize complex taxonomies (such as roles, requirements, or risks).
-* **Key Vocabulary & Frameworks**: Standardize terminology and frame topics using key conceptual models:
-  * *"Inside-the-model"* (changing weights) vs. *"Outside-the-model"* (building prompt chains, heuristic checks, and workflows).
-  * *"The 80–90% stall"* (where models fail out-of-the-box).
-  * *"Digital re-shoring"* (substituting offshore IT/BPO labor with orchestrated software).
-  * *"Spikes"* hiring model (hiring candidates with extreme strengths in specific areas rather than flat profiles).
+* **Key Vocabulary & Frameworks**: Standardize terminology and contrast competing conceptual models clearly. Use bolding and italics to emphasize defined terms within technical descriptions.
 * **Callouts (Alerts)**: Strategically use GitHub-style alerts (`[!NOTE]`, `[!IMPORTANT]`, `[!TIP]`, `[!WARNING]`) to highlight critical edge cases, operational warnings, or key insights.
 
 ---
 
 ## 4. Exemplary Snippets
 
-### Pragmatic Observations (Fact-Grounded)
-> *"AI-native software engineers are spending $300/day on Claude Code, running 5 to 10 coding agents in parallel. At 250 working days, that is $75,000/year, comparable to the fully loaded cost of a single high-quality offshore FTE."*
+### Pragmatic Observations (Fact-Grounded Style)
+> *"For a typical mid-sized organization, deploying [Software/FTE Type] costs approximately $[X]/year, which is directly comparable to the fully loaded cost of [Alternative Option]. By shifting to [New Model], the organization realizes an estimated [Y]% efficiency gain."*
 
-### Clear Terminology Contrast (Conceptual Clarity)
-> *"Inside-the-model approaches are generally more robust and generalizable across contexts. The tradeoff is that outputs can be more generic and less predictable... Outside-the-model approaches are workflow-specific. With standardized prompt chains plus heuristic checks, they can achieve near-deterministic results..."*
+### Clear Terminology Contrast (Conceptual Clarity Style)
+> *"Under [Paradigm A], systems achieve high [Attribute 1] at the expense of [Attribute 2]. Conversely, under [Paradigm B], the system prioritizes [Attribute 3], offering a more [Attribute 4] solution but requiring [Tradeoff]."*
 
-### Hiring Profiles (Contextual Archetypes)
-> * **MBB Consulting with Technical Training**: *e.g., McKinsey senior engagement manager with a PhD in mathematics.* Possesses high consulting polish and rigorous logical capability.
+### Contextual Archetypes (Formatting Style)
+> * **[Role Archetype 1]**: *e.g., [Generic Example with Background].* Possesses high [Skill A] and demonstrated experience in [Domain B].

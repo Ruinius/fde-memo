@@ -7,7 +7,9 @@ Welcome to the AI FDE Memo project. This project is dedicated to researching and
 - `.gitignore` - Standard ignore configuration for python environments, local IDE settings, and temp directories.
 - `docs/` - General project documentation and guidelines.
   - `docs/writing_style.md` - Tone, structural patterns, and formatting guidelines for writing premium memos, synthesized from reference files.
+- `inputs/` - Folder for the user to place primary source files (PDFs, text files, etc.) for target research.
 - `output/` - Contains the final output documents, drafts, and rendered versions of the memo.
+  - `output/outline.md` - The structured outline of the AI Forward Deployed Engineering memo.
 - `reference/` - Source materials, reference PDFs, articles, and documentation.
   - `reference/2026 AI Observations.pdf` - PDF document containing recent 2026 observations on AI engineering.
   - `reference/Adobe - Field PM memo.pdf` - PDF document containing Adobe's memo on Field Product Management, which serves as a structural reference.
@@ -29,6 +31,8 @@ Welcome to the AI FDE Memo project. This project is dedicated to researching and
   - `research/google_cloud_fde_jd.md` - Job description for Google Cloud Forward Deployed Engineer (FDE).
   - `research/google_cloud_ai_consultant_jd.md` - Job description for Google Cloud AI Consultant (PSO).
 - `skills/` - Custom skills and utilities for compiling and exporting draft memos.
+  - `skills/research_memo/` - Custom skill outlining the end-to-end memo research and drafting workflow.
+    - `skills/research_memo/SKILL.md` - Detailed workflow instructions and guidelines.
   - `skills/scripts/` - Script utilities for document conversions.
     - `skills/scripts/export_docx.py` - Python script to compile and export the memo into DOCX format.
     - `skills/scripts/export_pdf.py` - Python script to compile and export the memo into PDF format.

@@ -38,7 +38,7 @@ C3 AI deploys cross-functional, highly coordinated customer-embedded units consi
   * Define and measure key economic value drivers for the AI project [1].
   * Coordinate activities, track deliverables, manage timelines, and serve as the main business-technical interface [1].
   * Lead post-sales customer adaptation, platform integration strategy, and change management [1].
-* **Talent Profile:** Elite, tier-1 hybrid talent. The expectations for C3 AI's AI Solution Managers are exceptionally high compared to traditional project or product management roles. They must combine strong technical know-how (frequently having a hands-on technical or engineering background), rigorous product management capability, and executive consulting polish. Because of this rare and highly demanding combination, these professionals are highly sought after; they often proceed to found their own technology startups or are poached aggressively by fast-growing AI startups that have adapted rapidly to deployment-driven market needs.
+* **Talent Profile:** Elite, tier-1 hybrid talent. The expectations for C3 AI's AI Solution Managers are exceptionally high compared to traditional project or product management roles. They must combine strong technical know-how (frequently having a hands-on technical or engineering background), rigorous product management capability, and executive consulting polish. Because of this rare and highly demanding combination, these professionals are highly sought after; they often proceed to found their own technology startups or are poached aggressively by fast-moving AI startups that have adapted rapidly to deployment-driven market needs.
 
 
 ---
