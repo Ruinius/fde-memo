@@ -1,0 +1,14 @@
+# Python virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# Local/scratch folders
+tmp/
+.temp/
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
