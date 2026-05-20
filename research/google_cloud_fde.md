@@ -24,7 +24,13 @@ The distinction between Google Cloud's traditional Solutions Engineers and the e
 | **Work Environment** | Central Google environments and sandboxes [3] | Directly inside customer systems, networks, and perimeters [2][4] |
 | **Scale Strategy** | Breadth; scaling across many general accounts [11] | Depth; embedding with a few highly strategic accounts [11] |
 
+### The AI Consultant Group & Organizational Realities
+In addition to the FDE and SE tracks, Google Cloud has established an internal group designated as **AI Consultants** [2][4].
+* **The Strategic Intention vs. Incumbent Reality:** While initially positioned as high-level strategic advisors to guide enterprise GenAI rollouts, this role has been heavily constrained by Google's massive size and deeply entrenched incumbent engineering culture.
+* **Relegation to Project Management:** Within Google's strongly engineering-dominated hierarchy, these AI Consultants are widely relegated to standard, non-technical project management (PM) roles. Because they lack hands-on-keyboard engineering capability, they are often viewed as administrators rather than strategic leaders, leading to a distinct lack of respect from Google's core engineering divisions and the customer's technical teams alike.
+
 ---
+
 
 ## 3. Talent Profile and Technical Spikes
 Google Cloud hires elite "builder-consultants" for its FDE roles, looking for a rare combination of technical depth and consulting capability [1][3]:

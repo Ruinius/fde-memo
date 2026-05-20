@@ -32,13 +32,14 @@ C3 AI deploys cross-functional, highly coordinated customer-embedded units consi
   * Translate complex mathematical model behaviors to non-technical client stakeholders [1][7].
 * **Talent Profile:** Highly analytical mathematical minds (typically holding STEM degrees) with practical software engineering skills and a strong grasp of applied ML, statistics, and domain economics [1][4].
 
-### C. AI Engagement Manager / Product Manager
-* **Objective:** Act as the strategic lead, defining the roadmap, scope, and value metrics of the AI deployment [1].
+### C. AI Solution Manager
+* **Objective:** Act as the strategic lead, defining the roadmap, scope, and high-level value metrics of the AI deployment [1].
 * **Responsibilities:**
   * Define and measure key economic value drivers for the AI project [1].
-  * Coordinate activities, track deliverables, manage timelines, and serve as the main business interface [1].
-  * Coordinate post-sales customer support and change management [1].
-* **Talent Profile:** Technical product leaders with high consulting polish, strong project management skills, and a deep understanding of enterprise AI applications [1].
+  * Coordinate activities, track deliverables, manage timelines, and serve as the main business-technical interface [1].
+  * Lead post-sales customer adaptation, platform integration strategy, and change management [1].
+* **Talent Profile:** Elite, tier-1 hybrid talent. The expectations for C3 AI's AI Solution Managers are exceptionally high compared to traditional project or product management roles. They must combine strong technical know-how (frequently having a hands-on technical or engineering background), rigorous product management capability, and executive consulting polish. Because of this rare and highly demanding combination, these professionals are highly sought after; they often proceed to found their own technology startups or are poached aggressively by fast-growing AI startups that have adapted rapidly to deployment-driven market needs.
+
 
 ---
 

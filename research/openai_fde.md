@@ -23,13 +23,15 @@ The primary mission of OpenAI's FDE and Deployment Co. teams is to transition en
 * **Focus:** Standardizing the enterprise AI deployment stack. FDEs began building reusable prompt-chaining libraries, evaluation frameworks, and high-throughput data connectors [1][2].
 * **Collaboration:** Partnered closely with **Solutions Engineers** (who handled pre-sales and architectural advisory) and **Technical Success** managers (who managed high-level account roadmap alignment) [9][10].
 
-### Stage 3: OpenAI Deployment Company (May 2026)
-* **Structure:** Formalized as an independent, well-funded enterprise division, augmented by Tomoro’s transformation experts [8][3].
-* **Focus:** Large-scale corporate workflow redesign [8][3].
+### Stage 3: OpenAI Deployment Company (May 2026) & Technical Success Group
+* **Structure:** Formalized as an independent, well-funded enterprise division (Deployment Co.), augmented by Tomoro’s transformation experts [8][3]. In parallel, OpenAI established a highly specialized internal group called **Technical Success** [9][10].
+* **Focus:** Large-scale corporate workflow redesign and hands-on, high-consequence client integrations [8][3].
 * **Roles & Profiles:**
   * **Deployment Engineers (FDEs):** Full-stack software engineers who build, optimize, and secure agentic systems, prompt chains, and database integrations on the client's site [1][8].
+  * **AI Deployment Managers (Technical Success Group):** A newly created role designed to manage the critical intersection of product engineering, legacy database plumbing, and senior stakeholder strategy. While the role is still being defined, OpenAI is **aggressively poaching** the market's elite tier-1 hybrid talent—specifically targeting **Palantir "Echo"** and **C3 AI "AI Solution Manager"** profiles—to lead these high-stakes integrations.
   * **Applied AI Researchers:** Embedded data scientists and model tuning specialists who perform fine-tuning and domain-specific reinforcement learning (RLHF/DPO) on custom client data [1][8].
   * **Business Transformation Strategists:** Ex-consultants (from the Tomoro acquisition) who specialize in org redesign, labor-substitution strategy, and workflow economics [8][3].
+
 
 ---
 
