@@ -10,6 +10,7 @@ Welcome to the AI FDE Memo project. This project is dedicated to researching and
 - `inputs/` - Folder for the user to place primary source files (PDFs, text files, etc.) for target research.
 - `output/` - Contains the final output documents, drafts, and rendered versions of the memo.
   - `output/outline.md` - The structured outline of the AI Forward Deployed Engineering memo.
+  - `output/memo.md` - The full 5-6 page AI Forward Deployed Engineering memo draft, covering all six sections from the outline.
 - `reference/` - Source materials, reference PDFs, articles, and documentation.
   - `reference/2026 AI Observations.pdf` - PDF document containing recent 2026 observations on AI engineering.
   - `reference/Adobe - Field PM memo.pdf` - PDF document containing Adobe's memo on Field Product Management, which serves as a structural reference.
