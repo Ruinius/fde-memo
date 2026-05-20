@@ -28,6 +28,10 @@ Welcome to the AI FDE Memo project. This project is dedicated to researching and
   - `research/anthropic_solutions_architect_jd.md` - Job description for Anthropic Solutions Architect (SA).
   - `research/google_cloud_fde_jd.md` - Job description for Google Cloud Forward Deployed Engineer (FDE).
   - `research/google_cloud_ai_consultant_jd.md` - Job description for Google Cloud AI Consultant (PSO).
+- `skills/` - Custom skills and utilities for compiling and exporting draft memos.
+  - `skills/scripts/` - Script utilities for document conversions.
+    - `skills/scripts/export_docx.py` - Python script to compile and export the memo into DOCX format.
+    - `skills/scripts/export_pdf.py` - Python script to compile and export the memo into PDF format.
 
 
 ## Workflow and Guidelines

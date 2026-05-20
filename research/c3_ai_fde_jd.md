@@ -1,35 +1,47 @@
 # Job Description: C3 AI - Forward Deployed Engineer (FDE)
 
-## Role Overview
-The Forward Deployed Engineer (FDE) at C3 AI is a highly technical, customer-facing role. FDEs act as a primary technical bridge, embedding with customer organizations to design, customize, integrate, and scale C3 AI's enterprise applications (predictive maintenance, supply chain optimization, fraud detection) within complex legacy architectures. Unlike traditional support, FDEs are proactive builders who write custom software, optimize big-data ingestion pipelines, and troubleshoot hyper-specific infrastructure bottlenecks.
+https://job-boards.greenhouse.io/c3iot/jobs/4320293005
 
----
+## Company Overview
+
+C3 AI (NYSE: AI), is the Enterprise AI application software company. C3 AI delivers a family of fully integrated products including the C3 Agentic AI Platform, an end-to-end platform for developing, deploying, and operating enterprise AI applications, C3 AI applications, a portfolio of industry-specific SaaS enterprise AI applications that enable the digital transformation of organizations globally, and C3 Generative AI, a suite of domain-specific generative AI offerings for the enterprise.
+
+## Role Overview
+
+C3 AI is seeking a highly qualified Forward Deployed Engineer to join the C3 AI Services team in Redwood City, CA. The Forward Deployed Engineer is a C3 AI product expert skilled in providing exemplary product support for C3 AI products. This professional will engage with C3 AI customers to:
+1. Accurately assess the cause of the customer inquiry.
+2. Set customer expectations regarding C3 AI’s approach to address customer concerns.
+3. Identify and implement the required application or C3 AI Platform changes to successfully resolve each customer’s product or service-related issue.
+
+The professional should have application development experience and strong mentoring expertise. The candidate must demonstrate an interest in advancing their career in application development, machine learning, data integration, and consulting.
 
 ## Core Responsibilities
-* **Enterprise Customization & Building:** Design, write, and deploy production-grade custom application logic and frontend user interfaces on top of the C3 AI Platform.
-* **Legacy System Integration:** Clean, wrangle, and build robust data ingestion pipelines to unify large-scale enterprise data from relational databases, cloud storage, and legacy historians.
-* **Platform Optimization & MLOps:** Perform deep-dive debugging, database tuning, and performance optimizations of large-scale, time-series data applications.
-* **Customer Collaboration & Advisory:** Engage directly with customer technical leads, act as a trusted advisor to mitigate technical risks, write specifications, and lead architecture reviews.
-* **Product Feedback Loop:** Partner closely with internal Product, Engineering, and Customer Service teams to transform customer-specific deployment challenges into platform feature requests.
-* **Customer Enablement:** Provide technical mentorship to client teams, training them to become self-sufficient in managing and scaling C3 AI applications.
 
----
+* Become an expert in the C3 AI platform, C3 AI Tools, and C3 AI applications to enable and assist C3 AI customers to build their own applications.
+* Perform debugging, troubleshooting, modifications and unit testing of applications and solutions.
+* Assess and prioritize customer product change requests and validate in advance of customer upgrades.
+* Research problems thoroughly and clearly characterize customer and partner reported issues.
+* Contribute to the evolution of the C3 AI customer support organization with industry best practices and tools to support improving customer support experiences.
+* Demonstrate a consistently high level of professionalism and courteousness in all customer, partner and internal interactions.
+* Work professionally with Products, Engineering and Customer Services teams to implement, validate and, where necessary, document solutions.
+* Assist in planning and validation of C3 AI product releases.
 
-## Required Qualifications
-* **Educational Background:** Bachelor's degree in a STEM field (Science, Technology, Engineering, or Mathematics). An advanced degree is preferred.
-* **Professional Experience:**
-  * 2+ years of professional software application development experience (6+ years for Senior-level roles).
-  * Prior experience in technical software support or customer-facing engineering roles.
-* **Technical Skills:**
-  * High proficiency in programming languages such as **JavaScript, Python, Java, or Scala**.
-  * Strong understanding of data structures, algorithms, and relational/NoSQL database types and trade-offs.
-  * Experience with cloud computing platforms (AWS, Azure, GCP) and enterprise architecture.
-* **Soft Skills:** Outstanding analytical and troubleshooting abilities, excellent verbal/written communication skills, and ability to thrive under customer pressure in a fast-paced environment.
+## Qualifications
 
----
+* Bachelor’s degree required; advanced degree preferred.
+* 2+ years of experience (6+ for a Senior Forward Deployed Engineer) in software application development.
+* Software product support experience.
+* JavaScript expertise.
+* Proficient with test automation tools.
+* Proven experience in cross-organizational collaboration.
+* Proven ability to work effectively in a dynamic, fast-paced environment.
 
 ## Preferred Qualifications
-* Prior management consulting or systems integration experience.
-* Practical familiarity with machine learning algorithms, model training, and MLOps principles.
-* Deep sector-specific knowledge in target industries (e.g., Oil & Gas, Aerospace, Financial Services, Utilities, or Manufacturing).
-* Experience working within Agile/Scrum software development methodologies.
+
+* Consulting expertise preferred.
+
+## Requirements & Salary
+
+* Candidates must be authorized to work in the United States without the need for current or future company sponsorship.
+* California Base Pay Range: $90,000—$145,000 USD.
+* C3 AI provides excellent benefits, a competitive compensation package and generous equity plan.

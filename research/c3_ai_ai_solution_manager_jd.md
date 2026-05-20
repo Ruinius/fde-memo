@@ -1,38 +1,46 @@
-# Job Description: C3 AI - AI Solution Manager
+# Job Description: C3 AI - AI Solution Manager / Senior AI Solution Manager (Federal)
+
+https://job-boards.greenhouse.io/c3iot/jobs/4231684005
+
+## Company Overview
+
+C3 AI (NYSE: AI), is the Enterprise AI application software company. C3 AI delivers a family of fully integrated products including the C3 Agentic AI Platform, an end-to-end platform for developing, deploying, and operating enterprise AI applications, C3 AI applications, a portfolio of industry-specific SaaS enterprise AI applications that enable the digital transformation of organizations globally, and C3 Generative AI, a suite of domain-specific generative AI offerings for the enterprise.
 
 ## Role Overview
-At C3 AI, the AI Solution Manager is a post-sales, highly strategic, and elite hybrid professional who acts as the primary orchestrator and business-technical interface for large-scale enterprise AI deployments. This is a tier-1 talent role with expectations far exceeding those of traditional project or product management. 
 
-Embedded directly within client organizations, the AI Solution Manager owns the strategic roadmap, economic value formulation, and post-sales platform integration strategy for high-consequence enterprise applications (such as predictive maintenance, supply chain optimization, and fraud detection). You will work directly with customer executives, Forward Deployed Engineers (FDEs), and Forward Deployed Data Scientists (FDDSs) to ensure C3 AI deployments deliver maximum, measurable economic value and achieve deep operational integration.
+The AI Solution Manager / Senior AI Solution Manager (Federal) role is a unique blend of AI product development and deployment, customer engagement, and aiding customers to drive adoption. You will be shaping the future of enterprise AI, conducting extensive business problem-solving, and exercising multi-disciplinary team leadership. In this role, you will work directly with Federal and Aerospace & Defense clients to identify high-impact AI/ML opportunities, define scalable AI solutions, and lead cross-functional teams to bring innovations to life.
 
----
+You will own end-to-end AI solution development, from scoping and valuing AI use cases to leading the design, development, and deployment of enterprise-grade AI solutions. Managing multi-disciplinary teams of data scientists, software engineers, and industry experts, you will transform complex business challenges into AI-powered solutions that drive significant business value.
+
+Beyond implementation, you will help productize and commercialize AI solutions, ensuring they scale beyond individual client deployments and become repeatable offerings on the C3 AI Platform to drive long-term revenue growth. Our AI Solution Managers work on highly visible, high-impact AI initiatives, for example:
+* Apply AI-driven supply chain solutions to transform military supply chains, reducing lead times, decreasing inventory holding costs, and improving warfighter readiness.
+* Apply Gen AI to transform intelligence analysis, enabling analysts to quickly access & synthesize critical information.
+* Apply predictive maintenance ML algorithms to predict critical equipment failures for military equipment, improving equipment readiness.
+* Leverage AI to optimize enterprise planning and programmatic workflows in support of key initiatives, organizational productivity, and decision making.
 
 ## Core Responsibilities
-* **Strategic Roadmap & Scope Management:** Define and execute the end-to-end deployment roadmap, managing scope, timelines, deliverables, and resource allocation across cross-functional client and internal teams.
-* **Economic Value Modeling:** Identify, define, and rigorously measure key economic value drivers and ROI metrics for enterprise AI applications, presenting these outcomes directly to C3 AI and customer executives.
-* **Platform Integration & Change Management:** Design and lead post-sales customer adaptation strategies, enterprise system integration plans, and organizational change management to drive deep software adoption.
-* **Technical-Business Translation:** Act as the primary bridge between highly technical implementation squads (FDEs/FDDSs) and non-technical business leaders, ensuring technical designs align perfectly with core business objectives.
-* **Cross-Functional Team Orchestration:** Coordinate activities and syncs across software engineering, data science, product management, and customer subject matter experts (SMEs) to bypass organizational bottlenecks.
-* **Core Product Feedback Loop:** Synthesize field deployment challenges, user friction points, and customer requests to influence internal product development and platform engineering roadmaps.
 
----
+* Shape the AI roadmap for our Federal and Aerospace & Defense customers, identifying and validating AI-driven solutions that solve mission-critical business challenges and unlock new opportunities.
+* Lead, brainstorm, and problem-solve together with multi-disciplinary AI teams (data scientists, engineers, architects, and industry experts) to develop and scale cutting-edge AI applications with measurable, industry-wide impact.
+* Champion AI adoption at the executive level, engaging with customer executives to influence AI strategy and enterprise transformation.
+* Partner with the Sales team to drive adoption and expansion, ensuring AI solutions transition from successful pilots to enterprise-wide implementations.
+* Partner with the Product team to ensure that solutions transition from high-value pilots to standardized, repeatable enterprise offerings.
+* Operate in a high-growth, fast-paced AI-driven environment, managing complex AI productization efforts and driving successful AI deployments.
+* Travel as needed (25%), directly engaging with Federal and Aerospace & Defense executives to ensure seamless AI adoption and drive transformational business impact.
 
-## Required Qualifications
-* **Educational Background:** Bachelor's or Master's degree in a highly analytical or technical STEM field (Computer Science, Operations Research, Engineering, Mathematics, or equivalent). MBA or advanced business degree from a top-tier institution is highly valued.
-* **Professional Experience:**
-  * 4+ years of professional experience in high-consequence technology consulting (MBB preferred), technical product management, or client-facing enterprise software delivery.
-  * Proven track record of managing complex, large-scale enterprise software or data-driven integration projects.
-* **Professional & Technical Competency:**
-  * Rigorous hands-on technical or engineering background with high technical literacy; ability to understand enterprise databases, machine learning concepts, and cloud architecture.
-  * Elite communication, presentation, and negotiation skills; ability to command respect and build trust in high-stakes C-suite boardroom settings.
-* **Mindset & Soft Skills:**
-  * Exceptional "pre-PMF founder" agency, strong professional ownership, and high resilience under pressure.
-  * Ability to structure and execute highly open-ended, ambiguous projects in complex legacy enterprise environments.
-* **Logistics:** High willingness to travel to client sites as required (typically 25% to 75%).
+This is a highly visible role that combines technical depth, business acumen, and leadership to drive AI transformation across industries.
 
----
+## Qualifications
 
-## Preferred Qualifications
-* Prior experience founding a technology startup or acting as an early employee at a high-growth startup.
-* Deep domain expertise in key asset-heavy or highly regulated target industries (e.g., Oil & Gas, Defense, Utilities, Manufacturing, Aerospace, or Financial Services).
-* Experience with large-scale big data architectures, IoT sensors, or MLOps pipelines.
+* Bachelor’s in Engineering, Operations Research, Economics, Statistics, or Computer Science; MS/MBA preferred.
+* Proven track record with 4+ years of experience in AI strategy, consulting, product management, or AI/ML solutions, shaping AI commercialization and enterprise transformation.
+* Proven interest in AI & Gen AI, demonstrated through formal education, self-study, and hands-on experience.
+* Strong business acumen, with expertise in the Federal and/or Aerospace & Defense sectors.
+* Exceptional problem-solving, communication, and executive presentation skills, with experience influencing executive-level stakeholders.
+* Ability to lead and inspire multi-disciplinary teams in a fast-paced, high-impact environment.
+* An active U.S. Government security clearance or the ability to obtain one (e.g., Secret, Top Secret).
+
+## Requirements & Benefits
+
+* Candidates must be authorized to work in the United States without the need for current or future company sponsorship.
+* C3 AI provides a competitive compensation package and excellent benefits.

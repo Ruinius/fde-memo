@@ -1,40 +1,28 @@
-# Job Description: OpenAI - Forward Deployed Engineer (FDE / Deployment Co.)
+# Job Description: OpenAI - Forward Deployed Engineer (FDE)
+
+https://openai.com/careers/forward-deployed-engineer-(fde)-sf-san-francisco/
 
 ## Role Overview
-At OpenAI, Forward Deployed Engineers (FDEs) within our GTM Applied Engineering and the OpenAI Deployment Company sit at the bleeding edge of enterprise AI transformation. FDEs work directly inside customer systems, networks, and virtual private clouds (VPCs) to bridge the gap between foundational model research and actual, high-consequence corporate production. 
 
-FDEs are full-stack software and MLOps engineers who design, build, and optimize the highly secure "outside-the-model" environments (prompt chains, vector databases, custom guardrails, and agentic workflows) required to deploy Claude, GPT-4, and future reasoning models safely and predictably at scale. Additionally, FDEs run on a "build-prove-generalize" loop, converting bespoke enterprise solutions into generalized SDKs, APIs, and native platform features.
-
----
+At OpenAI, Forward Deployed Engineers (FDEs) operate at the intersection of customer delivery and core platform development. In this role, you will lead complex, end-to-end deployments of frontier AI models, working directly alongside strategic customers to take projects from initial prototype to stable production. FDEs own the technical delivery, system design, build, and production rollout of AI systems powered by OpenAI's technology.
 
 ## Core Responsibilities
-* **Agentic System & Workflow Engineering:** Design, write, and deploy robust, production-grade agentic workflows, prompt-chaining networks, and Retrieval-Augmented Generation (RAG) systems on top of OpenAI's API.
-* **VPC & Sovereign Cloud Integration:** Build and configure secure, private, and sovereign cloud integrations (often within virtual private clouds or highly restricted customer perimeters) to address strict corporate data privacy and security needs.
-* **MLOps, Optimization & Evallation:** Build end-to-end LLM evaluation pipelines, optimize latency and token-cost structures, manage context-window budgets, and conduct targeted model fine-tuning.
-* **Enterprise Legacy Data Integration:** Build robust, highly performant data pipelines and API connectors to link OpenAI models directly with complex, legacy enterprise databases and business applications.
-* **Build-Prove-Generalize Loop:** Identify recurring engineering challenges in bespoke field deployments and collaborate with central R&D product teams to generalize these solutions into core platform features, SDKs, and APIs.
-* **Client Technical Advisory:** Embed directly with client engineering and product teams, acting as a trusted technical advisor to guide enterprise software architecture decisions and mitigate deployment risks.
 
----
+* **Technical Delivery & Solution Ownership:** Own the technical scope, system design, build, and production rollout of complex enterprise AI systems from initial prototype through stable production.
+* **Customer Embeddings:** Embed closely with customer engineering and domain teams to understand their unique technical constraints, data environments, and business problems.
+* **System Design & Coding:** Write and review production-grade backend and frontend code (typically Python, JavaScript, or comparable stacks), designing robust architectures that incorporate Large Language Models (LLMs) and generative models.
+* **Codification & Scalability:** Codify successful deployment patterns, infrastructure building blocks, and playbooks into reusable tools, SDKs, or core platform features to enable future deployments to scale.
+* **Feedback Loop:** Partner closely with central R&D product and engineering teams, translating field insights and customer-specific deployment challenges into platform feature requests and product roadmap inputs.
+* **Advisory & Enablement:** Act as a trusted technical advisor, simplifying complex model behavior and guiding customer teams toward sustainable adoption and software self-sufficiency.
 
-## Required Qualifications
-* **Educational Background:** Bachelor's or Master's degree in Computer Science, Software Engineering, or a highly technical STEM field.
-* **Professional Experience:**
-  * 3+ years of professional software engineering experience (full-stack or backend/systems focus).
-  * Prior experience building and deploying generative AI applications, prompt orchestration frameworks, or complex RAG pipelines in production.
-* **Technical Skills:**
-  * Exceptional programming skills in **Python** and/or **TypeScript/JavaScript**.
-  * Deep experience with vector databases (e.g., Pinecone, Milvus, Qdrant), database schema design, SQL, and enterprise data integration.
-  * Solid hands-on experience with modern cloud infrastructure (AWS, Azure, GCP), containerization (Docker, Kubernetes), and CI/CD pipelines.
-* **Mindset & Soft Skills:**
-  * Extreme professional autonomy, resourcefulness, and a pre-PMF co-founder mindset.
-  * Comfort navigating large, messy legacy codebases and air-gapped environments without central oversight.
-  * Exceptional verbal and written communication skills; ability to collaborate effectively with both client CTOs and internal researchers.
-* **Logistics:** High willingness to travel (typically 25% to 50% depending on the project engagement).
+## Typical Qualifications
 
----
-
-## Preferred Qualifications
-* Prior experience at a high-growth tech startup, or as a forward deployed engineer/solutions engineer at an enterprise software firm.
-* Hands-on experience with advanced model fine-tuning, reinforcement learning (RLHF/DPO), or custom model evaluation design.
-* Strong understanding of corporate cybersecurity, compliance frameworks (SOC2, HIPAA, GDPR), and VPC networks.
+* **Professional Experience:** 5+ years of software engineering or technical deployment experience, including customer-facing roles.
+* **Technical Proficiency:**
+  * Demonstrated ability to design and deliver complex systems in ambiguous, fast-moving environments.
+  * Deep experience writing production-grade code in Python, JavaScript/TypeScript, or equivalent languages.
+  * Experience building or deploying systems powered by LLMs or generative models, understanding how model behaviors impact the end-product experience.
+* **Non-Technical & Soft Skills:**
+  * Strong communication skills to bridge the gap between engineering teams, business stakeholders, and customers.
+  * High professional autonomy, resilience, and the ability to make sound trade-offs between scope, speed, and quality under pressure.
+  * Ability to navigate complex corporate IT infrastructures and legacy systems.

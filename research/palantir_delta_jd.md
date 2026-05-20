@@ -1,34 +1,45 @@
-# Job Description: Palantir - Forward Deployed Engineer (FDE / "Delta")
+# Job Description: Palantir - Forward Deployed AI Engineer
 
-## Role Overview
-At Palantir, Forward Deployed Engineers (FDEs or "Deltas") sit at the intersection of deep software engineering and strategic customer delivery. FDEs work directly alongside our customers to solve their most complex, high-stakes operational challenges by deploying, customizing, and scaling Palantir's core platforms (Gotham, Foundry, and AIP). You will write production-grade code, build extensive data integration pipelines, and develop custom analytical applications on-site, acting as a tactical-technical catalyst.
+https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488
 
----
+## Company Overview
+Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.
+
+## The Role
+Forward Deployed AI Engineers work directly with customers owning Gen AI strategy and implementation. On a daily basis, you will build end-to-end workflows, take them to production, and solve real world problems at the largest scale. You will have ample opportunity to contribute learnings from the field back to the Palantir AIP product suite.
+
+You will be on the forefront of extending Palantir's existing footprint and strategy into new markets and problem spaces opened up by Gen AI.
 
 ## Core Responsibilities
-* **End-to-End Solution Delivery:** Own the technical implementation lifecycle from initial scoping and discovery through to architecture design, coding, testing, and production deployment.
-* **Production-Grade Software Engineering:** Write, debug, and ship highly reliable, maintainable code (primarily in Python, Java, C++, or TypeScript) to extend Palantir's software capabilities.
-* **Data Integration & MLOps:** Design, build, and optimize large-scale ETL/ELT pipelines, translate customer data models into Palantir's ontology frameworks, and deploy/monitor AI/ML models.
-* **Embedded Client Collaboration:** Embed directly with client operations and engineering teams (often on-site) to understand their daily workflows, gather specifications, and iterate rapidly based on live feedback.
-* **Technical Strategy & Communication:** Translate complex technical concepts into clear, strategic choices for executive and non-technical stakeholders, building strong client trust.
-* **Product-Field Feedback Loop:** Collaborate with central R&D product teams to generalize customer-specific features into core platform updates.
+Forward Deployed AI Engineers’ responsibilities look similar to those of a hands-on AI startup CTO: you’ll work in small teams to own delivery of high stakes projects with clients. A day’s work may include building LLM workflows on a large scale, interacting with customers to understand their needs and set their AI strategy, but the most impact will be driven by implementing solutions into the real world of our partner's organizations.
 
----
+Do you aspire to be an entrepreneur or an Applied AI leader? We believe Palantir is the best place — with the best colleagues — to learn how!
 
-## Required Qualifications
-* **Educational Background:** Bachelor's or Master's degree in Computer Science, Software Engineering, Mathematics, Physics, Data Science, or a related STEM field.
-* **Technical Skills:** 
-  * Strong programming fundamentals in at least one key language: **Python, Java, C++, or TypeScript/JavaScript**.
-  * Solid experience in data engineering, SQL, data structures, cloud platforms (AWS, Azure, GCP), and systems integration.
-* **Mindset & Soft Skills:** 
-  * Extreme agency, resourcefulness, and a pre-PMF founder mindset.
-  * Comfort operating with high autonomy in highly ambiguous, fast-paced, and high-consequence environments.
-  * Exceptional interpersonal skills with the ability to manage client dynamics.
-* **Logistics:** High willingness to travel (typically 25% to 75%, depending on the project).
+## What We Value
+* **Engineering mindset**, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.
+* **Solving real business problems**, not academic benchmarks.
+* **Ability to collaborate efficiently** in teams of technical and non-technical individuals.
+* **Comfort working in a dynamic environment** with evolving objectives and direct iteration with users.
 
----
+## What We Require
+* **Past experience building solutions with LLMs** and a deep understanding of overall Gen AI landscape.
+* **Strong foundation in Machine Learning basics** (Evaluation, Training, Problem Decomposition).
+* **Strong engineering background.** Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.
+* **Strong coder** with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.
+* **Ability and interest in traveling up to 25%**, as needed to client sites, but flexible based on personal preferences.
 
-## Preferred Qualifications
-* Prior experience in management consulting, systems integration, or a client-facing engineering role.
-* Experience deploying generative AI models, vector databases, and MLOps/LLMOps pipelines.
-* For Government/Defense teams: An active US Government Security Clearance (Secret, Top Secret, or higher).
+## Salary
+The estimated salary range for this position is estimated to be $135,000 - $200,000/year. Total compensation for this position may also include Restricted Stock units, sign-on bonus and other potential future incentives. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors.
+
+## Benefits
+* Employees (and their eligible dependents) can enroll in medical, dental, and vision insurance as well as voluntary life insurance.
+* Employees are automatically covered by Palantir’s basic life, AD&D and disability insurance.
+* Commuter benefits.
+* Take what you need paid time off, not accrual based.
+* 2 weeks paid time off built into the end of each year (subject to team and business needs).
+* 10 paid holidays throughout the calendar year.
+* Supportive leave of absence program including time off for military service and medical events.
+* Paid leave for new parents and subsidized back-up care for all parents.
+* Fertility and family building benefits including but not limited to adoption, surrogacy, and preservation.
+* Stipend to help with expenses that come with a new child.
+* Employees can enroll in Palantir’s 401k plan.

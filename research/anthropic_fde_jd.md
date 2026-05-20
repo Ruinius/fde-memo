@@ -1,40 +1,43 @@
-# Job Description: Anthropic - Forward Deployed Engineer (FDE / Applied AI)
+# Job Description: Anthropic - Forward Deployed Engineer, Applied AI
 
-## Role Overview
-At Anthropic, the Forward Deployed Engineer (FDE) within the Applied AI organization is an embedded builder who bridges the gap between the raw intelligence of our foundational model (Claude) and the highly secure, production environments of our strategic enterprise partners. 
+https://job-boards.greenhouse.io/anthropic/jobs/4985877008
 
-FDEs are elite software developers equipped with strong MLOps spikes who embed directly with client organizations to design, construct, and scale state-of-the-art agentic systems, prompt networks, and evaluation frameworks. Operating with a co-founder/pre-PMF mindset, FDEs are expected to move fast—aiming to deliver a mock UI by week 3 and a fully working production demo by week 6. In addition, FDEs act as a primary feedback link, capturing real-world model failure modes and UI friction to refine Claude's core capabilities in collaboration with Anthropic's central R&D and model development teams.
+## About Anthropic
 
----
+Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
+## About the Role
+
+As a member of the Applied AI team at Anthropic, you will be a Forward Deployed Engineer (FDE) who embeds directly with our most strategic customers to drive transformational AI adoption. You will collaborate closely with customer teams to ship advanced AI applications that solve real-world business problems. Our FDEs engage with customers to accelerate the adoption of existing products and create new applications built on our models.
+
+Working closely with our Post-Sales, Product, and Engineering teams, you'll combine engineering expertise, an understanding of frontier AI applications, and customer-facing skills to understand customer workflows and develop innovative solutions that address complex business challenges while maintaining our high standards for safety and reliability.
+
+You will sit at the frontier of enterprise AI deployments and serve as one of our founding FDEs who helps to shape our forward-deployed motion. We expect our FDEs to operate autonomously, thrive under ambiguity, and represent Anthropic at the highest level in customer environments. This is a significant responsibility: you’ll play a key role in championing our mission in the enterprise.
 
 ## Core Responsibilities
-* **Bespoke Agentic Engineering:** Design, build, and deploy production-grade enterprise applications, advanced agentic workflows, and complex prompt chains leveraging the Claude API.
-* **Rapid Prototyping & Iteration:** Build working user interfaces and functional application prototypes rapidly (targeting a mock UI by week 3 and a working demo by week 6) inside client environments.
-* **MLOps & Performance Optimization:** Handle backend performance tuning, latency optimization, token-cost management, context-window budgeting, and custom evaluation pipeline development.
-* **Legacy System Integration:** Write clean, maintainable integration code to connect Claude securely with customer legacy databases, internal APIs, and proprietary enterprise software.
-* **Security & Compliance Configurations:** Build highly secure, compliant, and often private implementations of Claude, specifically tailored for heavily regulated industries (e.g., healthcare, financial services, legal).
-* **Research-Field Feedback Loop:** Document model behaviors, edge cases, and client developer friction in the field, translating these observations into concrete feature requests and improvements for central R&D and model tuning teams.
 
----
+* Work within customer systems to build production applications with Claude models, ensuring that these products meet customer requirements.
+* Deliver technical artifacts for customers like MCP (Model Context Protocol) servers, sub-agents, and agent skills that will be used in production workflows.
+* Provide white-glove deployment support for Anthropic products in enterprise environments.
+* Identify and codify repeatable deployment patterns and contribute insights back to our Product and Engineering teams.
+* Maintain strong knowledge of the latest developments in LLM capabilities, implementation patterns, and AI product development stacks.
+* Build long-term relationships with customers and proactively identify new opportunities for AI deployment throughout the lifecycle of an engagement.
+* Potential Travel (based on location) to customer sites to build in person with customers. - Estimated 25%
+* Be a champion for Anthropic’s mission in the field.
 
-## Required Qualifications
-* **Educational Background:** Bachelor's or Master's degree in Computer Science, Software Engineering, or a related technical STEM field.
-* **Professional Experience:**
-  * 3+ years of professional experience in software engineering, backend systems, or MLOps.
-  * Hands-on experience developing and productionizing LLM-backed applications, prompt engineering pipelines, or custom vector search (RAG) systems.
-* **Technical Skills:**
-  * High proficiency in **Python** and/or **TypeScript/JavaScript**.
-  * Strong understanding of data structures, database technologies (SQL, NoSQL), and vector search databases.
-  * Practical experience with modern cloud infrastructures (AWS, GCP), APIs, and microservices architecture.
-* **Mindset & Soft Skills:**
-  * Extreme professional agency, resourcefulness, and a pre-PMF co-founder mindset.
-  * Strong user empathy and the ability to parse messy business requirements from client executives into clean, predictable software architectures.
-  * Exceptional communication and collaboration skills; ability to thrive in highly ambiguous, rapidly evolving, and customer-embedded environments.
-* **Logistics:** High willingness to travel to client sites as required (typically 25% to 50%).
+## You May Be a Good Fit If You Have:
 
----
+* 3+ years of experience in a technical, customer-facing role such as Forward Deployed Engineer, or as a Software Engineer with consulting experience. Former technical founders are also encouraged to apply.
+* Production experience with LLMs including advanced prompt engineering, agent development, evaluation frameworks, and deployment at scale.
+* Strong programming skills with proficiency in Python (and ideally in one or more additional languages like TypeScript, Java, etc.) and experience shipping production applications.
+* High agency with an ability to navigate ambiguity present in complex organizations.
+* High cooperation mindset for cross-organizational collaboration, balancing competing priorities with integrity.
+* Passion for advancing safe, beneficial AI systems through creative technical applications.
+* Strong communication skills to conduct discovery with customers and to convey technical concepts to diverse stakeholders while maintaining a low ego and collaborative approach.
+* A background in financial services, healthcare/life sciences, or another enterprise vertical is a plus.
+* Experience with enterprise IT systems and/or AI deployment patterns is a plus.
+* Experience working as an FDE or in a professional services context is a plus.
 
-## Preferred Qualifications
-* Prior experience at a high-growth startup, top-tier systems integrator, or enterprise software company in a customer-facing engineering role.
-* Deep knowledge of enterprise security frameworks, HIPAA/GDPR compliance, and cloud network configurations.
-* Experience conducting model evaluation design, context retrieval tuning, or fine-tuning workflows.
+## Salary
+
+The base salary range for this role is estimated to be $200,000 - $300,000/year. Total compensation packages also include equity options and comprehensive benefits.

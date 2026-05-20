@@ -1,41 +1,31 @@
-# Job Description: OpenAI - AI Deployment Manager (Technical Success Group)
+# Job Description: OpenAI - AI Deployment Manager
+
+https://openai.com/careers/ai-deployment-manager-san-francisco-san-francisco/
 
 ## Role Overview
-At OpenAI, the AI Deployment Manager is a newly formed, highly strategic, and elite hybrid leadership role residing within our **Technical Success** group. Positioned at the critical intersection of product engineering, legacy database plumbing, and senior stakeholder strategy, the AI Deployment Manager acts as the lead catalyst for OpenAI's most high-stakes, high-consequence enterprise integrations.
 
-This is a tier-1 talent role designed for exceptional professionals who possess a rare combination of deep technical literacy, rigorous product management capability, and executive consulting polish. In this role, you will lead cross-functional deployment units (comprising Forward Deployed Engineers, Applied AI Researchers, and client teams) to design, scope, and deploy agentic AI platforms directly inside the core operations of Fortune 500 companies. 
+At OpenAI, the AI Deployment Manager (ADM) is a specialized, customer-facing, post-sales role within the AI Deployment Management team. The core mission of the ADM team is to help enterprise customers successfully adopt, operationalize, and derive sustained, measurable business value from OpenAI's products—such as ChatGPT Enterprise, Agents, and the API—by moving them from initial experimentation to stable, high-impact production usage. 
 
-We aggressively recruit and absorb top-tier talent for this role, specifically targeting elite profiles such as **Palantir "Echoes" (Deployment Strategists)** and **C3 AI "AI Solution Managers"** who have a proven track record of driving massive business transformation through advanced software integration.
-
----
+This role combines enablement expertise, technical fluency, change management, and strategic program execution to drive product adoption and organizational transformation across OpenAI's most strategic enterprise partners.
 
 ## Core Responsibilities
-* **Strategic Integration Leadership:** Own the high-level roadmap, scoping, and operational milestones for OpenAI's enterprise-wide client deployments, securing deep technical and business alignment.
-* **Executive Advisory & Relationship Management:** Serve as the trusted advisor to client C-suite executives, directors, and technical leads, managing high-stakes client relationships and alignment.
-* **Orchestration of Technical Squads:** Coordinate cross-functional delivery units—including OpenAI Forward Deployed Engineers (FDEs), Applied AI Researchers, client database admins, and business analysts—to drive rapid model integration.
-* **Value Scoping & Workflow Engineering:** Define and measure key business value metrics, design operational workflows around agentic systems, and translate abstract business needs into highly structured technical specifications.
-* **Technical Success Alignment:** Manage the delicate balance between complex enterprise security perimeters, legacy data plumbing, and state-of-the-art model capabilities, ensuring reliable, low-latency production deployments.
-* **Product Advocacy & Feedback Loop:** Partner closely with central OpenAI Product and Engineering teams, feeding back complex enterprise requirements and field findings to shape the core platform roadmap.
 
----
+* **Drive Customer Adoption & Value:** Lead structured, time-bound deployments and enablement programs to transition strategic customers from experimentation and pilot phases to sustained, high-impact production usage.
+* **Enablement & Training:** Design and deliver high-impact enablement experiences (including onboarding sessions, executive briefings, hackathons, and hands-on workshops) tailored to audiences ranging from technical developers to senior business leaders.
+* **Strategic Implementation & Scoping:** Own the scoping and execution of enterprise deployment projects, defining success criteria, identifying high-value use cases, and designing change management initiatives.
+* **Technical Guidance:** Provide technical expertise regarding OpenAI’s product capabilities, API integrations, data access, privacy controls, and operational best practices.
+* **Aggregated Feedback Loop:** Capture and aggregate patterns across customer engagements to create repeatable playbooks, and relay structured customer feedback to internal Product and Engineering teams to inform OpenAI's product roadmap.
+* **Cross-Functional Collaboration:** Partner closely with Sales, Solutions Engineering, Technical Success, and Product teams to ensure a seamless and successful customer lifecycle.
 
-## Required Qualifications
-* **Educational Background:** Bachelor's or Master's degree in a highly analytical field (Computer Science, Operations Research, Engineering, Mathematics, or equivalent). MBA or advanced business degree from a top-tier institution is highly valued.
-* **Professional Experience:**
-  * 4+ years of professional experience in an elite client-facing hybrid role: specifically as a **Palantir Deployment Strategist (Echo)**, a **C3 AI AI Solution Manager**, a top-tier management consultant (MBB) focusing on digital transformation, or a senior product manager in enterprise data/AI platforms.
-  * Proven track record of managing and launching high-consequence, complex enterprise software integrations.
-* **Professional & Technical Competency:**
-  * High technical literacy: strong conceptual understanding of enterprise software architectures, relational and vector databases, prompt engineering, and MLOps pipelines.
-  * Exceptional presentation, communication, and interpersonal skills; ability to navigate boardroom dynamics and align diverse stakeholders.
-* **Mindset & Soft Skills:**
-  * Elite professional agency, resourcefulness, and a pre-PMF founder mindset.
-  * High empathy for end-users and client operational bottlenecks.
-  * Outstanding problem-solving skills with a structured approach to ambiguous, open-ended challenges.
-* **Logistics:** Willingness to travel to client sites as required (typically 25% to 50%).
+## Typical Qualifications
 
----
-
-## Preferred Qualifications
-* Prior experience founding a technology startup or acting as an early employee at a fast-growing, deployment-driven tech company.
-* Deep knowledge of enterprise data security, compliance frameworks (SOC2, HIPAA, GDPR), and virtual private cloud (VPC) deployments.
-* Technical familiarity with scripting languages (**SQL, Python**) and standard API integration architectures.
+* **Professional Experience:** 
+  * Proven track record in customer-facing technical enablement, technical success, solutions engineering, developer relations, or technical product management.
+  * Experience leading complex deployment projects or organizational change management programs in enterprise software environments.
+* **Technical Fluency:**
+  * Strong technical understanding regarding APIs, enterprise IT constraints, data privacy, and modern software architectures.
+  * Deep familiarity with AI deployment concepts, large language models (LLMs), prompt engineering, or vector databases.
+* **Non-Technical & Soft Skills:**
+  * Exceptional communication, presentation, and facilitation skills, with a demonstrated ability to explain complex technical systems to both developer and executive audiences.
+  * Strong business acumen, with the ability to translate complex technology capabilities into measurable business outcomes.
+  * Ability to thrive in fast-paced, ambiguous, and high-growth environments, managing multiple customer engagements simultaneously.
