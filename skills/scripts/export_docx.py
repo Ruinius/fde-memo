@@ -99,6 +99,12 @@ def export_to_docx(markdown_path, docx_path):
     h2_style.font.name = 'Arial'
     h2_style.font.size = Pt(14)
     
+    # Heading 3 style
+    h3_style = doc.styles['Heading 3']
+    h3_style.font.name = 'Arial'
+    h3_style.font.size = Pt(12)
+    h3_style.font.bold = True
+    
     with open(markdown_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
 
@@ -154,6 +160,19 @@ def export_to_docx(markdown_path, docx_path):
         elif content.startswith('## '):
             p = doc.add_heading(level=2)
             process_markdown_styles(p, content[3:])
+        elif content.startswith('### '):
+            p = doc.add_heading(level=3)
+            process_markdown_styles(p, content[4:])
+        elif content.startswith('>'):
+            quote_text = content[1:].strip()
+            try:
+                p = doc.add_paragraph(style='Quote')
+            except KeyError:
+                p = doc.add_paragraph()
+                p.paragraph_format.left_indent = Inches(0.5)
+            process_markdown_styles(p, quote_text)
+            for run in p.runs:
+                run.italic = True
         elif content.startswith('- ') or content.startswith('* '):
             level = leading_spaces // 2
             style_name = 'List Bullet' if level == 0 else f'List Bullet {level + 1}'
@@ -176,8 +195,19 @@ def export_to_docx(markdown_path, docx_path):
     print(f"Successfully created {docx_path}")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python export_docx.py <input.md> <output.docx>")
+    import os
+    if len(sys.argv) == 1:
+        input_path = "output/memo.md"
+        output_path = "output/memo.docx"
+    elif len(sys.argv) == 2:
+        input_path = sys.argv[1]
+        base, _ = os.path.splitext(input_path)
+        output_path = base + ".docx"
+    elif len(sys.argv) == 3:
+        input_path = sys.argv[1]
+        output_path = sys.argv[2]
+    else:
+        print("Usage: python export_docx.py [input.md] [output.docx]")
         sys.exit(1)
     
-    export_to_docx(sys.argv[1], sys.argv[2])
+    export_to_docx(input_path, output_path)

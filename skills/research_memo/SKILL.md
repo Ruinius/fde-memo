@@ -24,7 +24,7 @@ This skill provides a systematic framework for conducting deep research on a spe
 Check if `docs/writing_style.md` exists and is up to date with any files in the `reference/` folder. If not, analyze the references inside `reference/` to draft a style document detailing:
 - **Tone**: Professional, operator-led, decisive, authoritative.
 - **Structural Patterns**: Upfront summary, matrices, ranked competencies, actionable headings.
-- **Style Conventions**: Define guidelines for terminology formatting, key structural highlights, and callout standards without introducing specific domain facts.
+- **Style Conventions**: Define guidelines for terminology formatting, key structural highlights (explicitly avoiding horizontal separator lines "---" and developer-facing alert syntax like "[!IMPORTANT]"), and using clean standard blockquotes (starting with ">") instead.
 
 ### Step 2: Solicit Research Topics
 Ask the user for the specific research topics or focal areas to cover in the memo. This ensures the research is targeted and fully aligned with their interests.
@@ -45,9 +45,13 @@ For every key source identified, create a dedicated markdown file in `research/`
 Ask the user to provide an outline for the research memo, or present a proposed outline based on the research findings for their feedback. Do not proceed to drafting until the outline is finalized.
 
 ### Step 6: Draft the Memo
-Synthesize all findings from the `research/` folder and draft the final memo inside the `output/` directory (e.g., `output/AI_FDE_Memo_Draft.md`). The draft must strictly follow the tone, structural patterns, and terminology in `docs/writing_style.md`.
+Synthesize all findings from the `research/` folder and draft the final memo inside the `output/` directory (e.g., `output/AI_FDE_Memo_Draft.md`). The draft must strictly follow the tone, structural patterns, and terminology in `docs/writing_style.md`. Ensure that formatting artifacts such as separator lines (---) and visual alert callout flags (e.g., [!IMPORTANT], [!NOTE]) are avoided entirely in favor of a clean, premium executive layout with simple blockquotes (>) for highlighting profile definitions or key takeaways.
+
+### Step 7: Export the Memo
+Export the final draft markdown file to Word (DOCX) and PDF formats using the scripts inside `skills/scripts/`. Always run the export scripts using the markdown name (e.g. `output/memo.md` dynamically exports to `output/memo.docx` and `output/memo.pdf` in the same directory). Do NOT overwrite the reference source of truth files (such as `output/20260520_FDE_Evolution_Memo_vSHARED.docx`).
 
 ## Common Mistakes
 - **Hype and Buzzwords**: Avoid speculative or overly promotional marketing language. Stick to clear, operator-grade insights.
 - **Vague Citations**: In the research phase, always save exact source URLs or names along with the raw verbatim excerpts. Do not summarize from memory.
 - **Unstructured Drafting**: Skipping Step 5 (Outline approval) leading to poorly organized or disjointed drafts.
+- **Overwriting Source of Truth Files**: Always verify that you are exporting with the markdown name as output (e.g., `memo.docx` / `memo.pdf`) to protect client-shared reference versions.

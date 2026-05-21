@@ -54,6 +54,21 @@ def export_to_pdf(markdown_path, pdf_path):
                 margin-bottom: 10px;
                 font-weight: bold;
             }}
+            h3 {{
+                font-size: 12pt;
+                color: #2c3e50;
+                margin-top: 15px;
+                margin-bottom: 8px;
+                font-weight: bold;
+            }}
+            blockquote {{
+                margin: 10px 0;
+                padding: 8px 15px;
+                background-color: #f8f9fa;
+                border-left: 3px solid #cbd5e1;
+                font-style: italic;
+                color: #475569;
+            }}
             p {{
                 margin-bottom: 12px;
                 text-align: left;
@@ -121,8 +136,19 @@ def export_to_pdf(markdown_path, pdf_path):
         print(f"Successfully created {pdf_path}")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python export_pdf.py <input.md> <output.pdf>")
+    import os
+    if len(sys.argv) == 1:
+        input_path = "output/memo.md"
+        output_path = "output/memo.pdf"
+    elif len(sys.argv) == 2:
+        input_path = sys.argv[1]
+        base, _ = os.path.splitext(input_path)
+        output_path = base + ".pdf"
+    elif len(sys.argv) == 3:
+        input_path = sys.argv[1]
+        output_path = sys.argv[2]
+    else:
+        print("Usage: python export_pdf.py [input.md] [output.pdf]")
         sys.exit(1)
     
-    export_to_pdf(sys.argv[1], sys.argv[2])
+    export_to_pdf(input_path, output_path)

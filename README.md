@@ -73,8 +73,10 @@ fde-memo/
 │   ├── research_memo/
 │   │   └── SKILL.md                 # End-to-end memo research & drafting workflow
 │   └── scripts/
-│       ├── export_docx.py           # Export memo to DOCX
-│       └── export_pdf.py            # Export memo to PDF
+│       ├── export_docx.py           # Export memo to DOCX dynamically using markdown filename
+│       ├── export_pdf.py            # Export memo to PDF dynamically using markdown filename
+│       ├── read_docx.py             # Read and parse text from DOCX
+│       └── read_pdf.py              # Read and parse text from PDF
 │
 └── tmp/                             # Temporary scripts and logs (not committed)
 ```
@@ -89,19 +91,37 @@ The memo can be exported to **DOCX** or **PDF** using the included scripts. Ensu
 uv sync
 ```
 
+By default, running the scripts without any arguments will read from `output/memo.md` and dynamically output to `output/memo.docx` or `output/memo.pdf` in the same folder.
+
 ### Export to DOCX
 
 ```powershell
-uv run python skills/scripts/export_docx.py
+uv run python skills/scripts/export_docx.py [input.md] [output.docx]
 ```
 
 ### Export to PDF
 
 ```powershell
-uv run python skills/scripts/export_pdf.py
+uv run python skills/scripts/export_pdf.py [input.md] [output.pdf]
 ```
 
-Output files will be written to the `output/` directory.
+---
+
+## Reading/Parsing Documents
+
+You can extract text from compiled `.docx` and `.pdf` documents directly to `stdout` or a text file using the read utilities:
+
+### Read DOCX
+
+```powershell
+uv run python skills/scripts/read_docx.py [input.docx] [output.txt]
+```
+
+### Read PDF
+
+```powershell
+uv run python skills/scripts/read_pdf.py [input.pdf] [output.txt]
+```
 
 ---
 

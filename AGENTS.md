@@ -5,6 +5,7 @@ Welcome to the AI FDE Memo project. This project is dedicated to researching and
 ## Project Structure
 - `AGENTS.md` - Primary coordination document for AI agents, outlining project structure, documentation guidelines, and architectural boundaries.
 - `.gitignore` - Standard ignore configuration for python environments, local IDE settings, and temp directories.
+- `LICENSE` - Standard MIT License containing terms of reuse and distribution.
 - `docs/` - General project documentation and guidelines.
   - `docs/writing_style.md` - Tone, structural patterns, and formatting guidelines for writing premium memos, synthesized from reference files.
 - `inputs/` - Folder for the user to place primary source files (PDFs, text files, etc.) for target research.
@@ -34,9 +35,11 @@ Welcome to the AI FDE Memo project. This project is dedicated to researching and
 - `skills/` - Custom skills and utilities for compiling and exporting draft memos.
   - `skills/research_memo/` - Custom skill outlining the end-to-end memo research and drafting workflow.
     - `skills/research_memo/SKILL.md` - Detailed workflow instructions and guidelines.
-  - `skills/scripts/` - Script utilities for document conversions.
-    - `skills/scripts/export_docx.py` - Python script to compile and export the memo into DOCX format.
-    - `skills/scripts/export_pdf.py` - Python script to compile and export the memo into PDF format.
+  - `skills/scripts/` - Script utilities for document conversions and reading.
+    - `skills/scripts/export_docx.py` - Python script to compile and export the memo into DOCX format using the markdown name by default.
+    - `skills/scripts/export_pdf.py` - Python script to compile and export the memo into PDF format using the markdown name by default.
+    - `skills/scripts/read_docx.py` - Python script to parse and extract text from DOCX format to stdout or files.
+    - `skills/scripts/read_pdf.py` - Python script to parse and extract text from PDF format to stdout or files.
 
 
 ## Workflow and Guidelines
